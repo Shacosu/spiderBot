@@ -1,0 +1,14 @@
+2023/03/08-23:08:44.828 28f0 Reusing MANIFEST C:\Users\Shacosu\Desktop\Racionalbot\userDateDir\Default\IndexedDB\https_app.racional.cl_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/08-23:08:44.828 28f0 Recovering log #79
+2023/03/08-23:08:44.829 28f0 Reusing old log C:\Users\Shacosu\Desktop\Racionalbot\userDateDir\Default\IndexedDB\https_app.racional.cl_0.indexeddb.leveldb/000079.log 
+2023/03/08-23:08:44.830 28f0 Delete type=2 #77
+2023/03/08-23:08:44.999 2e94 Level-0 table #84: started
+2023/03/08-23:08:45.016 2e94 Level-0 table #84: 6683 bytes OK
+2023/03/08-23:08:45.019 2e94 Delete type=0 #79
+2023/03/08-23:08:45.022 28f0 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 1814 : 1
+2023/03/08-23:08:45.024 28f0 Compacting 1@0 + 1@1 files
+2023/03/08-23:08:45.025 28f0 Generated table #85@0: 59 keys, 3873 bytes
+2023/03/08-23:08:45.026 28f0 Compacted 1@0 + 1@1 files => 3873 bytes
+2023/03/08-23:08:45.026 28f0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/08-23:08:45.026 28f0 Delete type=2 #84
+2023/03/08-23:08:45.026 28f0 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 1814 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
